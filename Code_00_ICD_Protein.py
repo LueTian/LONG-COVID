@@ -79,7 +79,7 @@ def Phenotype_Split(input):
 #######################################################
 # Function
 #######################################################
-### 使用 DisgeNet 数据库
+
 ### geneId --- diseaseId map
 gene_disease_map = pd.read_csv(r"Data\Code_Original\curated_gene_disease_associations.tsv",sep = '\t')
 gene_disease_map = gene_disease_map[['geneId', 'geneSymbol', 'diseaseId', 'diseaseName','diseaseType']]
