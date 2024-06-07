@@ -1,8 +1,3 @@
-'''
-为了研究 COVID influence 对 
-COVID influence 对 protein 的影响 
-COVID + Source  与 target overlap
-'''
 import pandas as pd
 import numpy as np 
 import os 
@@ -46,7 +41,7 @@ Protein_Corr_G.to_csv("Data\\Code_07_Outcome\\Protein_Frequency.csv",index = Fal
 ########################################################################################################
 # Protein Index 
 def Element_Index(input,reverse_ = True):
-    ref_ls = sorted(input,reverse = reverse_) # 按照降序排列 【距离越大，数值越大，idx越大】 idx越大 组内距离越大
+    ref_ls = sorted(input,reverse = reverse_) 
     outcome = [ref_ls.index(i) for i in input]
     return outcome
 
