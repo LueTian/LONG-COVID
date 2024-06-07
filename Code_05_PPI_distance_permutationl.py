@@ -14,13 +14,7 @@ random.seed(0)
 #### Function 
 # Compute Distance of the permutation sample
 class PPI_Class:
-    '''
-    该类用于计算正负样本的 PPI distance 
-    包含下列步骤：
-    1.构建PPI LCC 网络
-    2.构建 node-node-distance dict
-    3.计算 group-group-distance 
-    '''
+
     def __init__(self,net_df):
         self.net_df = net_df
         self.PPI_dict = {}
