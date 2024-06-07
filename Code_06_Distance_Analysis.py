@@ -31,7 +31,7 @@ Pair_T = pd.merge(Pair_T,comornet[['edge','Correlation_treat','RR_treat','Diff_R
 #######################################################################################################################
 #######################################################################################################################
 #######################################################################################################################
-### [Part One]overall statistic test  基于 negative / positive disease pairs 的 PPI distance 进行假设检验 
+
 Pair_F['Diff_outcome1'].mean()
 Pair_T['Diff_outcome1'].mean()
 stats.mannwhitneyu(Pair_F['Diff_outcome1'].tolist(),Pair_T['Diff_outcome1'].tolist(),alternative='less') 
@@ -52,7 +52,7 @@ plt.savefig('Data\\Code_06_Outcome\\boxplot.svg')
 #######################################################################################################################
 #######################################################################################################################
 #######################################################################################################################
-### [Part Three] overall statistic test  基于  positive disease pairs 的 PPI distance 和 重复检验的结果 
+
 file_path = 'Data\\Code_05_Outcome'
 file_ls = os.listdir('Data\\Code_05_Outcome')
 ref_list = []
@@ -104,12 +104,12 @@ def Z_Score(input):
     std = input[2]
     repeat = eval(input[3])
     p = np.mean([1 if i > real else 0 for i in repeat])
-    z = (real - m)/std # 如果 Z 小于 0 说明 加入 COVID Protein 之后 显著变小
+    z = (real - m)/std 
     return z, p
 
 Pair_T[['z_score','p_value']] = Pair_T[['outcome1_add','bg_mean','bg_std','Diff_repeat']].apply(Z_Score,axis = 1,result_type='expand')
 Pair_T['p_value'] = 1 - Pair_T['p_value']
 Pair_T[Pair_T['p_value'] < 0.05]
-### 包括P-value 和 Z-score
+
 Pair_T.to_csv("Data\\Code_06_Outcome\\Pair_T_significant_add.csv",index = False)
 
