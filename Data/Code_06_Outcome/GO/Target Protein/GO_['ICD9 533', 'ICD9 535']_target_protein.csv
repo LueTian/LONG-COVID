@@ -1,0 +1,432 @@
+"ONTOLOGY","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"BP","GO:1903596","regulation of gap junction assembly","1/1","10/18870",0.000529941706412296,0.0111287758346565,NA,"3553",1
+"BP","GO:0001660","fever generation","1/1","11/18870",0.000582935877053381,0.0111287758346565,NA,"3553",1
+"BP","GO:0031650","regulation of heat generation","1/1","12/18870",0.000635930047694577,0.0111287758346565,NA,"3553",1
+"BP","GO:0033083","regulation of immature T cell proliferation","1/1","12/18870",0.000635930047694577,0.0111287758346565,NA,"3553",1
+"BP","GO:0033084","regulation of immature T cell proliferation in thymus","1/1","12/18870",0.000635930047694577,0.0111287758346565,NA,"3553",1
+"BP","GO:0031392","regulation of prostaglandin biosynthetic process","1/1","13/18870",0.000688924218336107,0.0111287758346565,NA,"3553",1
+"BP","GO:0032306","regulation of prostaglandin secretion","1/1","13/18870",0.000688924218336107,0.0111287758346565,NA,"3553",1
+"BP","GO:0032308","positive regulation of prostaglandin secretion","1/1","13/18870",0.000688924218336107,0.0111287758346565,NA,"3553",1
+"BP","GO:0033079","immature T cell proliferation","1/1","13/18870",0.000688924218336107,0.0111287758346565,NA,"3553",1
+"BP","GO:0033080","immature T cell proliferation in thymus","1/1","13/18870",0.000688924218336107,0.0111287758346565,NA,"3553",1
+"BP","GO:0070486","leukocyte aggregation","1/1","13/18870",0.000688924218336107,0.0111287758346565,NA,"3553",1
+"BP","GO:0030213","hyaluronan biosynthetic process","1/1","14/18870",0.000741918388977081,0.0111287758346565,NA,"3553",1
+"BP","GO:0034116","positive regulation of heterotypic cell-cell adhesion","1/1","14/18870",0.000741918388977081,0.0111287758346565,NA,"3553",1
+"BP","GO:0032725","positive regulation of granulocyte macrophage colony-stimulating factor production","1/1","15/18870",0.000794912559618388,0.0111287758346565,NA,"3553",1
+"BP","GO:0071639","positive regulation of monocyte chemotactic protein-1 production","1/1","15/18870",0.000794912559618388,0.0111287758346565,NA,"3553",1
+"BP","GO:2001279","regulation of unsaturated fatty acid biosynthetic process","1/1","15/18870",0.000794912559618388,0.0111287758346565,NA,"3553",1
+"BP","GO:0051044","positive regulation of membrane protein ectodomain proteolysis","1/1","16/18870",0.000847906730259584,0.0111287758346565,NA,"3553",1
+"BP","GO:0031649","heat generation","1/1","17/18870",0.000900900900900892,0.0111287758346565,NA,"3553",1
+"BP","GO:0032310","prostaglandin secretion","1/1","17/18870",0.000900900900900892,0.0111287758346565,NA,"3553",1
+"BP","GO:0097396","response to interleukin-17","1/1","17/18870",0.000900900900900892,0.0111287758346565,NA,"3553",1
+"BP","GO:0097398","cellular response to interleukin-17","1/1","17/18870",0.000900900900900892,0.0111287758346565,NA,"3553",1
+"BP","GO:1901550","regulation of endothelial cell development","1/1","17/18870",0.000900900900900892,0.0111287758346565,NA,"3553",1
+"BP","GO:1903140","regulation of establishment of endothelial barrier","1/1","17/18870",0.000900900900900892,0.0111287758346565,NA,"3553",1
+"BP","GO:0002827","positive regulation of T-helper 1 type immune response","1/1","18/18870",0.000953895071542199,0.0111287758346565,NA,"3553",1
+"BP","GO:0016264","gap junction assembly","1/1","18/18870",0.000953895071542199,0.0111287758346565,NA,"3553",1
+"BP","GO:0030730","sequestering of triglyceride","1/1","18/18870",0.000953895071542199,0.0111287758346565,NA,"3553",1
+"BP","GO:0030949","positive regulation of vascular endothelial growth factor receptor signaling pathway","1/1","18/18870",0.000953895071542199,0.0111287758346565,NA,"3553",1
+"BP","GO:0032604","granulocyte macrophage colony-stimulating factor production","1/1","18/18870",0.000953895071542199,0.0111287758346565,NA,"3553",1
+"BP","GO:0032645","regulation of granulocyte macrophage colony-stimulating factor production","1/1","18/18870",0.000953895071542199,0.0111287758346565,NA,"3553",1
+"BP","GO:0035234","ectopic germ cell programmed cell death","1/1","18/18870",0.000953895071542199,0.0111287758346565,NA,"3553",1
+"BP","GO:0150078","positive regulation of neuroinflammatory response","1/1","18/18870",0.000953895071542199,0.0111287758346565,NA,"3553",1
+"BP","GO:0032305","positive regulation of icosanoid secretion","1/1","19/18870",0.0010068892421834,0.0111287758346565,NA,"3553",1
+"BP","GO:0035743","CD4-positive, alpha-beta T cell cytokine production","1/1","19/18870",0.0010068892421834,0.0111287758346565,NA,"3553",1
+"BP","GO:0046827","positive regulation of protein export from nucleus","1/1","19/18870",0.0010068892421834,0.0111287758346565,NA,"3553",1
+"BP","GO:0032303","regulation of icosanoid secretion","1/1","20/18870",0.00105988341282448,0.0111287758346565,NA,"3553",1
+"BP","GO:0060353","regulation of cell adhesion molecule production","1/1","20/18870",0.00105988341282448,0.0111287758346565,NA,"3553",1
+"BP","GO:0010829","negative regulation of glucose transmembrane transport","1/1","21/18870",0.00111287758346568,0.0111287758346565,NA,"3553",1
+"BP","GO:0071605","monocyte chemotactic protein-1 production","1/1","21/18870",0.00111287758346568,0.0111287758346565,NA,"3553",1
+"BP","GO:0071637","regulation of monocyte chemotactic protein-1 production","1/1","21/18870",0.00111287758346568,0.0111287758346565,NA,"3553",1
+"BP","GO:0030449","regulation of complement activation","1/1","22/18870",0.00116587175410687,0.0111287758346565,NA,"3553",1
+"BP","GO:0060252","positive regulation of glial cell proliferation","1/1","23/18870",0.00121886592474818,0.0111287758346565,NA,"3553",1
+"BP","GO:0060352","cell adhesion molecule production","1/1","23/18870",0.00121886592474818,0.0111287758346565,NA,"3553",1
+"BP","GO:2000193","positive regulation of fatty acid transport","1/1","23/18870",0.00121886592474818,0.0111287758346565,NA,"3553",1
+"BP","GO:0002922","positive regulation of humoral immune response","1/1","24/18870",0.00127186009538938,0.0111287758346565,NA,"3553",1
+"BP","GO:0034114","regulation of heterotypic cell-cell adhesion","1/1","24/18870",0.00127186009538938,0.0111287758346565,NA,"3553",1
+"BP","GO:0045723","positive regulation of fatty acid biosynthetic process","1/1","24/18870",0.00127186009538938,0.0111287758346565,NA,"3553",1
+"BP","GO:0051043","regulation of membrane protein ectodomain proteolysis","1/1","24/18870",0.00127186009538938,0.0111287758346565,NA,"3553",1
+"BP","GO:0010623","programmed cell death involved in cell development","1/1","25/18870",0.00132485426603068,0.0111287758346565,NA,"3553",1
+"BP","GO:0048143","astrocyte activation","1/1","25/18870",0.00132485426603068,0.0111287758346565,NA,"3553",1
+"BP","GO:0002726","positive regulation of T cell cytokine production","1/1","26/18870",0.00137784843667177,0.0111287758346565,NA,"3553",1
+"BP","GO:0050995","negative regulation of lipid catabolic process","1/1","27/18870",0.00143084260731297,0.0111287758346565,NA,"3553",1
+"BP","GO:0050996","positive regulation of lipid catabolic process","1/1","27/18870",0.00143084260731297,0.0111287758346565,NA,"3553",1
+"BP","GO:0002675","positive regulation of acute inflammatory response","1/1","28/18870",0.00148383677795438,0.0111287758346565,NA,"3553",1
+"BP","GO:0015732","prostaglandin transport","1/1","28/18870",0.00148383677795438,0.0111287758346565,NA,"3553",1
+"BP","GO:0032770","positive regulation of monooxygenase activity","1/1","29/18870",0.00153683094859547,0.0111287758346565,NA,"3553",1
+"BP","GO:0010575","positive regulation of vascular endothelial growth factor production","1/1","30/18870",0.00158982511923689,0.0111287758346565,NA,"3553",1
+"BP","GO:0002825","regulation of T-helper 1 type immune response","1/1","31/18870",0.00164281928987797,0.0111287758346565,NA,"3553",1
+"BP","GO:0050999","regulation of nitric-oxide synthase activity","1/1","31/18870",0.00164281928987797,0.0111287758346565,NA,"3553",1
+"BP","GO:1900745","positive regulation of p38MAPK cascade","1/1","31/18870",0.00164281928987797,0.0111287758346565,NA,"3553",1
+"BP","GO:2000191","regulation of fatty acid transport","1/1","31/18870",0.00164281928987797,0.0111287758346565,NA,"3553",1
+"BP","GO:0001516","prostaglandin biosynthetic process","1/1","32/18870",0.00169581346051906,0.0111287758346565,NA,"3553",1
+"BP","GO:0046457","prostanoid biosynthetic process","1/1","32/18870",0.00169581346051906,0.0111287758346565,NA,"3553",1
+"BP","GO:0070498","interleukin-1-mediated signaling pathway","1/1","32/18870",0.00169581346051906,0.0111287758346565,NA,"3553",1
+"BP","GO:1901889","negative regulation of cell junction assembly","1/1","32/18870",0.00169581346051906,0.0111287758346565,NA,"3553",1
+"BP","GO:0033198","response to ATP","1/1","33/18870",0.00174880763116037,0.0111287758346565,NA,"3553",1
+"BP","GO:0030212","hyaluronan metabolic process","1/1","34/18870",0.00180180180180178,0.0111287758346565,NA,"3553",1
+"BP","GO:0032743","positive regulation of interleukin-2 production","1/1","34/18870",0.00180180180180178,0.0111287758346565,NA,"3553",1
+"BP","GO:0046825","regulation of protein export from nucleus","1/1","34/18870",0.00180180180180178,0.0111287758346565,NA,"3553",1
+"BP","GO:0030947","regulation of vascular endothelial growth factor receptor signaling pathway","1/1","35/18870",0.00185479597244276,0.0111287758346565,NA,"3553",1
+"BP","GO:1901099","negative regulation of signal transduction in absence of ligand","1/1","35/18870",0.00185479597244276,0.0111287758346565,NA,"3553",1
+"BP","GO:2001240","negative regulation of extrinsic apoptotic signaling pathway in absence of ligand","1/1","35/18870",0.00185479597244276,0.0111287758346565,NA,"3553",1
+"BP","GO:0002369","T cell cytokine production","1/1","38/18870",0.00201377848436657,0.0113780604133546,NA,"3553",1
+"BP","GO:0002724","regulation of T cell cytokine production","1/1","38/18870",0.00201377848436657,0.0113780604133546,NA,"3553",1
+"BP","GO:0045429","positive regulation of nitric oxide biosynthetic process","1/1","38/18870",0.00201377848436657,0.0113780604133546,NA,"3553",1
+"BP","GO:1904407","positive regulation of nitric oxide metabolic process","1/1","39/18870",0.00206677265500788,0.0113780604133546,NA,"3553",1
+"BP","GO:0045923","positive regulation of fatty acid metabolic process","1/1","41/18870",0.00217276099629038,0.0113780604133546,NA,"3553",1
+"BP","GO:0046627","negative regulation of insulin receptor signaling pathway","1/1","41/18870",0.00217276099629038,0.0113780604133546,NA,"3553",1
+"BP","GO:0060251","regulation of glial cell proliferation","1/1","41/18870",0.00217276099629038,0.0113780604133546,NA,"3553",1
+"BP","GO:0150077","regulation of neuroinflammatory response","1/1","41/18870",0.00217276099629038,0.0113780604133546,NA,"3553",1
+"BP","GO:1900077","negative regulation of cellular response to insulin stimulus","1/1","42/18870",0.00222575516693146,0.0113780604133546,NA,"3553",1
+"BP","GO:0014002","astrocyte development","1/1","43/18870",0.00227874933757266,0.0113780604133546,NA,"3553",1
+"BP","GO:0006509","membrane protein ectodomain proteolysis","1/1","44/18870",0.00233174350821397,0.0113780604133546,NA,"3553",1
+"BP","GO:0045840","positive regulation of mitotic nuclear division","1/1","44/18870",0.00233174350821397,0.0113780604133546,NA,"3553",1
+"BP","GO:0050691","regulation of defense response to virus by host","1/1","44/18870",0.00233174350821397,0.0113780604133546,NA,"3553",1
+"BP","GO:1900744","regulation of p38MAPK cascade","1/1","45/18870",0.00238473767885516,0.0113780604133546,NA,"3553",1
+"BP","GO:0032309","icosanoid secretion","1/1","46/18870",0.00243773184949647,0.0113780604133546,NA,"3553",1
+"BP","GO:0032768","regulation of monooxygenase activity","1/1","46/18870",0.00243773184949647,0.0113780604133546,NA,"3553",1
+"BP","GO:0032892","positive regulation of organic acid transport","1/1","46/18870",0.00243773184949647,0.0113780604133546,NA,"3553",1
+"BP","GO:2001239","regulation of extrinsic apoptotic signaling pathway in absence of ligand","1/1","46/18870",0.00243773184949647,0.0113780604133546,NA,"3553",1
+"BP","GO:0002920","regulation of humoral immune response","1/1","47/18870",0.00249072602013778,0.0113780604133546,NA,"3553",1
+"BP","GO:0045601","regulation of endothelial cell differentiation","1/1","47/18870",0.00249072602013778,0.0113780604133546,NA,"3553",1
+"BP","GO:0051353","positive regulation of oxidoreductase activity","1/1","47/18870",0.00249072602013778,0.0113780604133546,NA,"3553",1
+"BP","GO:0140353","lipid export from cell","1/1","47/18870",0.00249072602013778,0.0113780604133546,NA,"3553",1
+"BP","GO:0006953","acute-phase response","1/1","48/18870",0.00254372019077898,0.0113780604133546,NA,"3553",1
+"BP","GO:0042088","T-helper 1 type immune response","1/1","48/18870",0.00254372019077898,0.0113780604133546,NA,"3553",1
+"BP","GO:0002673","regulation of acute inflammatory response","1/1","49/18870",0.00259671436142006,0.0113780604133546,NA,"3553",1
+"BP","GO:0061028","establishment of endothelial barrier","1/1","49/18870",0.00259671436142006,0.0113780604133546,NA,"3553",1
+"BP","GO:0006693","prostaglandin metabolic process","1/1","50/18870",0.00264970853206148,0.0113780604133546,NA,"3553",1
+"BP","GO:0006692","prostanoid metabolic process","1/1","51/18870",0.00270270270270256,0.0113780604133546,NA,"3553",1
+"BP","GO:0043407","negative regulation of MAP kinase activity","1/1","51/18870",0.00270270270270256,0.0113780604133546,NA,"3553",1
+"BP","GO:0006636","unsaturated fatty acid biosynthetic process","1/1","52/18870",0.00275569687334376,0.0113780604133546,NA,"3553",1
+"BP","GO:0050805","negative regulation of synaptic transmission","1/1","54/18870",0.00286168521462626,0.0113780604133546,NA,"3553",1
+"BP","GO:0042304","regulation of fatty acid biosynthetic process","1/1","55/18870",0.00291467938526746,0.0113780604133546,NA,"3553",1
+"BP","GO:0060986","endocrine hormone secretion","1/1","56/18870",0.00296767355590877,0.0113780604133546,NA,"3553",1
+"BP","GO:0038066","p38MAPK cascade","1/1","57/18870",0.00302066772655007,0.0113780604133546,NA,"3553",1
+"BP","GO:0061900","glial cell activation","1/1","57/18870",0.00302066772655007,0.0113780604133546,NA,"3553",1
+"BP","GO:0045428","regulation of nitric oxide biosynthetic process","1/1","58/18870",0.00307366189719116,0.0113780604133546,NA,"3553",1
+"BP","GO:0010574","regulation of vascular endothelial growth factor production","1/1","59/18870",0.00312665606783247,0.0113780604133546,NA,"3553",1
+"BP","GO:0010718","positive regulation of epithelial to mesenchymal transition","1/1","59/18870",0.00312665606783247,0.0113780604133546,NA,"3553",1
+"BP","GO:0014009","glial cell proliferation","1/1","59/18870",0.00312665606783247,0.0113780604133546,NA,"3553",1
+"BP","GO:0033619","membrane protein proteolysis","1/1","59/18870",0.00312665606783247,0.0113780604133546,NA,"3553",1
+"BP","GO:0007566","embryo implantation","1/1","60/18870",0.00317965023847366,0.0113780604133546,NA,"3553",1
+"BP","GO:0051785","positive regulation of nuclear division","1/1","60/18870",0.00317965023847366,0.0113780604133546,NA,"3553",1
+"BP","GO:0080164","regulation of nitric oxide metabolic process","1/1","60/18870",0.00317965023847366,0.0113780604133546,NA,"3553",1
+"BP","GO:0006611","protein export from nucleus","1/1","61/18870",0.00323264440911486,0.0113780604133546,NA,"3553",1
+"BP","GO:0034113","heterotypic cell-cell adhesion","1/1","61/18870",0.00323264440911486,0.0113780604133546,NA,"3553",1
+"BP","GO:0046456","icosanoid biosynthetic process","1/1","61/18870",0.00323264440911486,0.0113780604133546,NA,"3553",1
+"BP","GO:0048010","vascular endothelial growth factor receptor signaling pathway","1/1","61/18870",0.00323264440911486,0.0113780604133546,NA,"3553",1
+"BP","GO:0050994","regulation of lipid catabolic process","1/1","61/18870",0.00323264440911486,0.0113780604133546,NA,"3553",1
+"BP","GO:0046824","positive regulation of nucleocytoplasmic transport","1/1","62/18870",0.00328563857975617,0.0113780604133546,NA,"3553",1
+"BP","GO:0010573","vascular endothelial growth factor production","1/1","63/18870",0.00333863275039747,0.0113780604133546,NA,"3553",1
+"BP","GO:0032623","interleukin-2 production","1/1","63/18870",0.00333863275039747,0.0113780604133546,NA,"3553",1
+"BP","GO:0032663","regulation of interleukin-2 production","1/1","63/18870",0.00333863275039747,0.0113780604133546,NA,"3553",1
+"BP","GO:0032757","positive regulation of interleukin-8 production","1/1","63/18870",0.00333863275039747,0.0113780604133546,NA,"3553",1
+"BP","GO:0071715","icosanoid transport","1/1","63/18870",0.00333863275039747,0.0113780604133546,NA,"3553",1
+"BP","GO:0001885","endothelial cell development","1/1","64/18870",0.00339162692103845,0.0114669291139871,NA,"3553",1
+"BP","GO:0006956","complement activation","1/1","67/18870",0.00355060943296226,0.0116350739880148,NA,"3553",1
+"BP","GO:0038034","signal transduction in absence of ligand","1/1","67/18870",0.00355060943296226,0.0116350739880148,NA,"3553",1
+"BP","GO:0046888","negative regulation of hormone secretion","1/1","67/18870",0.00355060943296226,0.0116350739880148,NA,"3553",1
+"BP","GO:0097192","extrinsic apoptotic signaling pathway in absence of ligand","1/1","67/18870",0.00355060943296226,0.0116350739880148,NA,"3553",1
+"BP","GO:0002711","positive regulation of T cell mediated immunity","1/1","69/18870",0.00365659777424476,0.0116937928194796,NA,"3553",1
+"BP","GO:0046626","regulation of insulin receptor signaling pathway","1/1","69/18870",0.00365659777424476,0.0116937928194796,NA,"3553",1
+"BP","GO:1901224","positive regulation of non-canonical NF-kappaB signal transduction","1/1","69/18870",0.00365659777424476,0.0116937928194796,NA,"3553",1
+"BP","GO:1900076","regulation of cellular response to insulin stimulus","1/1","71/18870",0.00376258611552727,0.0116937928194796,NA,"3553",1
+"BP","GO:0006024","glycosaminoglycan biosynthetic process","1/1","72/18870",0.00381558028616824,0.0116937928194796,NA,"3553",1
+"BP","GO:0014015","positive regulation of gliogenesis","1/1","72/18870",0.00381558028616824,0.0116937928194796,NA,"3553",1
+"BP","GO:0032722","positive regulation of chemokine production","1/1","72/18870",0.00381558028616824,0.0116937928194796,NA,"3553",1
+"BP","GO:0050766","positive regulation of phagocytosis","1/1","72/18870",0.00381558028616824,0.0116937928194796,NA,"3553",1
+"BP","GO:0071260","cellular response to mechanical stimulus","1/1","72/18870",0.00381558028616824,0.0116937928194796,NA,"3553",1
+"BP","GO:0006809","nitric oxide biosynthetic process","1/1","73/18870",0.00386857445680977,0.0117647058823526,NA,"3553",1
+"BP","GO:0006023","aminoglycan biosynthetic process","1/1","74/18870",0.00392156862745086,0.0117647058823526,NA,"3553",1
+"BP","GO:0050709","negative regulation of protein secretion","1/1","74/18870",0.00392156862745086,0.0117647058823526,NA,"3553",1
+"BP","GO:0032729","positive regulation of type II interferon production","1/1","77/18870",0.00408055113937467,0.012060892479909,NA,"3553",1
+"BP","GO:0032890","regulation of organic acid transport","1/1","77/18870",0.00408055113937467,0.012060892479909,NA,"3553",1
+"BP","GO:0010827","regulation of glucose transmembrane transport","1/1","78/18870",0.00413354531001575,0.012060892479909,NA,"3553",1
+"BP","GO:0046209","nitric oxide metabolic process","1/1","78/18870",0.00413354531001575,0.012060892479909,NA,"3553",1
+"BP","GO:2001057","reactive nitrogen species metabolic process","1/1","79/18870",0.00418653948065706,0.0121324205357817,NA,"3553",1
+"BP","GO:0002720","positive regulation of cytokine production involved in immune response","1/1","81/18870",0.00429252782193934,0.0123412824589297,NA,"3553",1
+"BP","GO:0051341","regulation of oxidoreductase activity","1/1","82/18870",0.00434552199258087,0.0123412824589297,NA,"3553",1
+"BP","GO:0150076","neuroinflammatory response","1/1","82/18870",0.00434552199258087,0.0123412824589297,NA,"3553",1
+"BP","GO:0032370","positive regulation of lipid transport","1/1","86/18870",0.00455749867514565,0.0128170675419251,NA,"3553",1
+"BP","GO:0033077","T cell differentiation in thymus","1/1","87/18870",0.00461049284578685,0.0128170675419251,NA,"3553",1
+"BP","GO:0048708","astrocyte differentiation","1/1","87/18870",0.00461049284578685,0.0128170675419251,NA,"3553",1
+"BP","GO:0043406","positive regulation of MAP kinase activity","1/1","88/18870",0.00466348701642816,0.0128170675419251,NA,"3553",1
+"BP","GO:0046330","positive regulation of JNK cascade","1/1","88/18870",0.00466348701642816,0.0128170675419251,NA,"3553",1
+"BP","GO:0046889","positive regulation of lipid biosynthetic process","1/1","90/18870",0.00476947535771055,0.013024336553748,NA,"3553",1
+"BP","GO:0050886","endocrine process","1/1","92/18870",0.00487546369899305,0.0131452375681711,NA,"3553",1
+"BP","GO:1903510","mucopolysaccharide metabolic process","1/1","92/18870",0.00487546369899305,0.0131452375681711,NA,"3553",1
+"BP","GO:0019915","lipid storage","1/1","94/18870",0.00498145204027556,0.0132631160572337,NA,"3553",1
+"BP","GO:0051781","positive regulation of cell division","1/1","94/18870",0.00498145204027556,0.0132631160572337,NA,"3553",1
+"BP","GO:0050688","regulation of defense response to virus","1/1","97/18870",0.00514043455219937,0.0135997088513029,NA,"3553",1
+"BP","GO:0002709","regulation of T cell mediated immunity","1/1","99/18870",0.00524642289348165,0.0135997088513029,NA,"3553",1
+"BP","GO:2001237","negative regulation of extrinsic apoptotic signaling pathway","1/1","99/18870",0.00524642289348165,0.0135997088513029,NA,"3553",1
+"BP","GO:0019217","regulation of fatty acid metabolic process","1/1","100/18870",0.00529941706412274,0.0135997088513029,NA,"3553",1
+"BP","GO:0050764","regulation of phagocytosis","1/1","100/18870",0.00529941706412274,0.0135997088513029,NA,"3553",1
+"BP","GO:0071901","negative regulation of protein serine/threonine kinase activity","1/1","100/18870",0.00529941706412274,0.0135997088513029,NA,"3553",1
+"BP","GO:0032755","positive regulation of interleukin-6 production","1/1","101/18870",0.00535241123476415,0.0136534562036499,NA,"3553",1
+"BP","GO:0032677","regulation of interleukin-8 production","1/1","103/18870",0.00545839957604655,0.0137815654231519,NA,"3553",1
+"BP","GO:0032637","interleukin-8 production","1/1","104/18870",0.00551139374668785,0.0137815654231519,NA,"3553",1
+"BP","GO:0032642","regulation of chemokine production","1/1","104/18870",0.00551139374668785,0.0137815654231519,NA,"3553",1
+"BP","GO:0032602","chemokine production","1/1","105/18870",0.00556438791732894,0.0137815654231519,NA,"3553",1
+"BP","GO:0042102","positive regulation of T cell proliferation","1/1","105/18870",0.00556438791732894,0.0137815654231519,NA,"3553",1
+"BP","GO:0002526","acute inflammatory response","1/1","107/18870",0.00567037625861166,0.0138826453228079,NA,"3553",1
+"BP","GO:0030593","neutrophil chemotaxis","1/1","107/18870",0.00567037625861166,0.0138826453228079,NA,"3553",1
+"BP","GO:0046822","regulation of nucleocytoplasmic transport","1/1","109/18870",0.00577636459989406,0.0139693804952172,NA,"3553",1
+"BP","GO:0014013","regulation of gliogenesis","1/1","110/18870",0.00582935877053514,0.0139693804952172,NA,"3553",1
+"BP","GO:0010717","regulation of epithelial to mesenchymal transition","1/1","111/18870",0.00588235294117645,0.0139693804952172,NA,"3553",1
+"BP","GO:0071347","cellular response to interleukin-1","1/1","111/18870",0.00588235294117645,0.0139693804952172,NA,"3553",1
+"BP","GO:1905954","positive regulation of lipid localization","1/1","111/18870",0.00588235294117645,0.0139693804952172,NA,"3553",1
+"BP","GO:0030203","glycosaminoglycan metabolic process","1/1","112/18870",0.00593534711181765,0.0139693804952172,NA,"3553",1
+"BP","GO:0045833","negative regulation of lipid metabolic process","1/1","112/18870",0.00593534711181765,0.0139693804952172,NA,"3553",1
+"BP","GO:1901222","regulation of non-canonical NF-kappaB signal transduction","1/1","113/18870",0.00598834128245895,0.0139699979536901,NA,"3553",1
+"BP","GO:0033559","unsaturated fatty acid metabolic process","1/1","115/18870",0.00609432962374135,0.0139699979536901,NA,"3553",1
+"BP","GO:0015908","fatty acid transport","1/1","116/18870",0.00614732379438243,0.0139699979536901,NA,"3553",1
+"BP","GO:1904659","glucose transmembrane transport","1/1","117/18870",0.00620031796502385,0.0139699979536901,NA,"3553",1
+"BP","GO:0007088","regulation of mitotic nuclear division","1/1","118/18870",0.00625331213566505,0.0139699979536901,NA,"3553",1
+"BP","GO:0043500","muscle adaptation","1/1","118/18870",0.00625331213566505,0.0139699979536901,NA,"3553",1
+"BP","GO:0050830","defense response to Gram-positive bacterium","1/1","118/18870",0.00625331213566505,0.0139699979536901,NA,"3553",1
+"BP","GO:0032609","type II interferon production","1/1","119/18870",0.00630630630630624,0.0139699979536901,NA,"3553",1
+"BP","GO:0032649","regulation of type II interferon production","1/1","119/18870",0.00630630630630624,0.0139699979536901,NA,"3553",1
+"BP","GO:0002718","regulation of cytokine production involved in immune response","1/1","120/18870",0.00635930047694755,0.0139699979536901,NA,"3553",1
+"BP","GO:0008645","hexose transmembrane transport","1/1","120/18870",0.00635930047694755,0.0139699979536901,NA,"3553",1
+"BP","GO:0006022","aminoglycan metabolic process","1/1","121/18870",0.00641229464758863,0.0139699979536901,NA,"3553",1
+"BP","GO:0002367","cytokine production involved in immune response","1/1","122/18870",0.00646528881823005,0.0139699979536901,NA,"3553",1
+"BP","GO:0021782","glial cell development","1/1","122/18870",0.00646528881823005,0.0139699979536901,NA,"3553",1
+"BP","GO:0032874","positive regulation of stress-activated MAPK cascade","1/1","122/18870",0.00646528881823005,0.0139699979536901,NA,"3553",1
+"BP","GO:0015749","monosaccharide transmembrane transport","1/1","123/18870",0.00651828298887103,0.0139699979536901,NA,"3553",1
+"BP","GO:0002824","positive regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains","1/1","124/18870",0.00657127715951233,0.0139699979536901,NA,"3553",1
+"BP","GO:0045446","endothelial cell differentiation","1/1","124/18870",0.00657127715951233,0.0139699979536901,NA,"3553",1
+"BP","GO:0070304","positive regulation of stress-activated protein kinase signaling cascade","1/1","124/18870",0.00657127715951233,0.0139699979536901,NA,"3553",1
+"BP","GO:0006690","icosanoid metabolic process","1/1","125/18870",0.00662427133015353,0.0139699979536901,NA,"3553",1
+"BP","GO:0008286","insulin receptor signaling pathway","1/1","125/18870",0.00662427133015353,0.0139699979536901,NA,"3553",1
+"BP","GO:0046683","response to organophosphorus","1/1","127/18870",0.00673025967143615,0.0140421874168,NA,"3553",1
+"BP","GO:0002456","T cell mediated immunity","1/1","129/18870",0.00683624801271843,0.0140421874168,NA,"3553",1
+"BP","GO:0002708","positive regulation of lymphocyte mediated immunity","1/1","129/18870",0.00683624801271843,0.0140421874168,NA,"3553",1
+"BP","GO:0051224","negative regulation of protein transport","1/1","129/18870",0.00683624801271843,0.0140421874168,NA,"3553",1
+"BP","GO:1990266","neutrophil migration","1/1","129/18870",0.00683624801271843,0.0140421874168,NA,"3553",1
+"BP","GO:0002821","positive regulation of adaptive immune response","1/1","130/18870",0.00688924218335962,0.0140421874168,NA,"3553",1
+"BP","GO:0071621","granulocyte chemotaxis","1/1","130/18870",0.00688924218335962,0.0140421874168,NA,"3553",1
+"BP","GO:0046328","regulation of JNK cascade","1/1","132/18870",0.00699523052464224,0.01419032477856,NA,"3553",1
+"BP","GO:1904950","negative regulation of establishment of protein localization","1/1","133/18870",0.00704822469528343,0.0142300650246007,NA,"3553",1
+"BP","GO:0002702","positive regulation of production of molecular mediator of immune response","1/1","136/18870",0.00720720720720691,0.0144144144144138,NA,"3553",1
+"BP","GO:0034219","carbohydrate transmembrane transport","1/1","136/18870",0.00720720720720691,0.0144144144144138,NA,"3553",1
+"BP","GO:0070555","response to interleukin-1","1/1","140/18870",0.00741918388977214,0.0147003364513625,NA,"3553",1
+"BP","GO:0071902","positive regulation of protein serine/threonine kinase activity","1/1","140/18870",0.00741918388977214,0.0147003364513625,NA,"3553",1
+"BP","GO:0043405","regulation of MAP kinase activity","1/1","142/18870",0.00752517223105453,0.0147452699122017,NA,"3553",1
+"BP","GO:0003158","endothelium development","1/1","143/18870",0.00757816640169584,0.0147452699122017,NA,"3553",1
+"BP","GO:0014074","response to purine-containing compound","1/1","143/18870",0.00757816640169584,0.0147452699122017,NA,"3553",1
+"BP","GO:0010565","regulation of cellular ketone metabolic process","1/1","144/18870",0.0076311605723367,0.0147452699122017,NA,"3553",1
+"BP","GO:0034763","negative regulation of transmembrane transport","1/1","144/18870",0.0076311605723367,0.0147452699122017,NA,"3553",1
+"BP","GO:0045834","positive regulation of lipid metabolic process","1/1","145/18870",0.00768415474297834,0.0147452699122017,NA,"3553",1
+"BP","GO:0050671","positive regulation of lymphocyte proliferation","1/1","145/18870",0.00768415474297834,0.0147452699122017,NA,"3553",1
+"BP","GO:0051783","regulation of nuclear division","1/1","146/18870",0.00773714891361943,0.0147803831264658,NA,"3553",1
+"BP","GO:0062013","positive regulation of small molecule metabolic process","1/1","147/18870",0.00779014308426063,0.0147839666840187,NA,"3553",1
+"BP","GO:0032946","positive regulation of mononuclear cell proliferation","1/1","148/18870",0.00784313725490193,0.0147839666840187,NA,"3553",1
+"BP","GO:0038061","non-canonical NF-kappaB signal transduction","1/1","148/18870",0.00784313725490193,0.0147839666840187,NA,"3553",1
+"BP","GO:0050768","negative regulation of neurogenesis","1/1","149/18870",0.00789613142554313,0.0148182906928695,NA,"3553",1
+"BP","GO:0051092","positive regulation of NF-kappaB transcription factor activity","1/1","150/18870",0.00794912559618433,0.0148523136139233,NA,"3553",1
+"BP","GO:0002705","positive regulation of leukocyte mediated immunity","1/1","151/18870",0.00800211976682541,0.0148548854431202,NA,"3553",1
+"BP","GO:0050729","positive regulation of inflammatory response","1/1","152/18870",0.00805511393746661,0.0148548854431202,NA,"3553",1
+"BP","GO:1903531","negative regulation of secretion by cell","1/1","152/18870",0.00805511393746661,0.0148548854431202,NA,"3553",1
+"BP","GO:0032368","regulation of lipid transport","1/1","153/18870",0.00810810810810814,0.0148881640260951,NA,"3553",1
+"BP","GO:0045807","positive regulation of endocytosis","1/1","155/18870",0.00821409644939042,0.0149538678950441,NA,"3553",1
+"BP","GO:0051961","negative regulation of nervous system development","1/1","155/18870",0.00821409644939042,0.0149538678950441,NA,"3553",1
+"BP","GO:0097530","granulocyte migration","1/1","156/18870",0.00826709062003173,0.0149863004431213,NA,"3553",1
+"BP","GO:0007043","cell-cell junction assembly","1/1","157/18870",0.00832008479067303,0.0149871077206713,NA,"3553",1
+"BP","GO:0090316","positive regulation of intracellular protein transport","1/1","158/18870",0.00837307896131401,0.0149871077206713,NA,"3553",1
+"BP","GO:2001236","regulation of extrinsic apoptotic signaling pathway","1/1","158/18870",0.00837307896131401,0.0149871077206713,NA,"3553",1
+"BP","GO:0008643","carbohydrate transport","1/1","159/18870",0.00842607313195542,0.0150188583858285,NA,"3553",1
+"BP","GO:0007254","JNK cascade","1/1","163/18870",0.00863804981452032,0.0153325384207736,NA,"3553",1
+"BP","GO:0050796","regulation of insulin secretion","1/1","165/18870",0.00874403815580282,0.0154562666156515,NA,"3553",1
+"BP","GO:0070665","positive regulation of leukocyte proliferation","1/1","166/18870",0.00879703232644413,0.0154856850044017,NA,"3553",1
+"BP","GO:0006633","fatty acid biosynthetic process","1/1","168/18870",0.00890302066772641,0.0155437983788994,NA,"3553",1
+"BP","GO:0051168","nuclear export","1/1","168/18870",0.00890302066772641,0.0155437983788994,NA,"3553",1
+"BP","GO:0030856","regulation of epithelial cell differentiation","1/1","171/18870",0.00906200317965022,0.0157567892021673,NA,"3553",1
+"BP","GO:0051048","negative regulation of secretion","1/1","172/18870",0.00911499735029131,0.015784507606602,NA,"3553",1
+"BP","GO:0043409","negative regulation of MAPK cascade","1/1","176/18870",0.00932697403285609,0.0160357836828422,NA,"3553",1
+"BP","GO:0032635","interleukin-6 production","1/1","177/18870",0.00937996820349751,0.0160357836828422,NA,"3553",1
+"BP","GO:0032675","regulation of interleukin-6 production","1/1","177/18870",0.00937996820349751,0.0160357836828422,NA,"3553",1
+"BP","GO:0001837","epithelial to mesenchymal transition","1/1","178/18870",0.00943296237413871,0.0160357836828422,NA,"3553",1
+"BP","GO:0006469","negative regulation of protein kinase activity","1/1","179/18870",0.00948595654477991,0.0160357836828422,NA,"3553",1
+"BP","GO:0015718","monocarboxylic acid transport","1/1","179/18870",0.00948595654477991,0.0160357836828422,NA,"3553",1
+"BP","GO:0042129","regulation of T cell proliferation","1/1","182/18870",0.00964493905670383,0.0161501773266476,NA,"3553",1
+"BP","GO:0001659","temperature homeostasis","1/1","183/18870",0.0096979332273448,0.0161501773266476,NA,"3553",1
+"BP","GO:1905952","regulation of lipid localization","1/1","183/18870",0.0096979332273448,0.0161501773266476,NA,"3553",1
+"BP","GO:0045766","positive regulation of angiogenesis","1/1","185/18870",0.00980392156862753,0.0161501773266476,NA,"3553",1
+"BP","GO:1904018","positive regulation of vasculature development","1/1","185/18870",0.00980392156862753,0.0161501773266476,NA,"3553",1
+"BP","GO:0007565","female pregnancy","1/1","186/18870",0.0098569157392685,0.0161501773266476,NA,"3553",1
+"BP","GO:0032872","regulation of stress-activated MAPK cascade","1/1","186/18870",0.0098569157392685,0.0161501773266476,NA,"3553",1
+"BP","GO:0051302","regulation of cell division","1/1","186/18870",0.0098569157392685,0.0161501773266476,NA,"3553",1
+"BP","GO:0002706","regulation of lymphocyte mediated immunity","1/1","188/18870",0.00996290408055112,0.0162234701711324,NA,"3553",1
+"BP","GO:0046890","regulation of lipid biosynthetic process","1/1","189/18870",0.0100158982511921,0.0162234701711324,NA,"3553",1
+"BP","GO:0070302","regulation of stress-activated protein kinase signaling cascade","1/1","189/18870",0.0100158982511921,0.0162234701711324,NA,"3553",1
+"BP","GO:0002700","regulation of production of molecular mediator of immune response","1/1","191/18870",0.0101218865924746,0.0163186319167812,NA,"3553",1
+"BP","GO:0071466","cellular response to xenobiotic stimulus","1/1","192/18870",0.0101748807631159,0.0163186319167812,NA,"3553",1
+"BP","GO:0002822","regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains","1/1","193/18870",0.0102278749337572,0.0163186319167812,NA,"3553",1
+"BP","GO:0033673","negative regulation of kinase activity","1/1","193/18870",0.0102278749337572,0.0163186319167812,NA,"3553",1
+"BP","GO:0090276","regulation of peptide hormone secretion","1/1","195/18870",0.0103338632750397,0.0164262155043542,NA,"3553",1
+"BP","GO:0043123","positive regulation of canonical NF-kappaB signal transduction","1/1","196/18870",0.0103868574456808,0.0164490753600744,NA,"3553",1
+"BP","GO:0002791","regulation of peptide secretion","1/1","198/18870",0.0104928457869634,0.0165553789083201,NA,"3553",1
+"BP","GO:0030073","insulin secretion","1/1","199/18870",0.0105458399576044,0.016577593438891,NA,"3553",1
+"BP","GO:0090087","regulation of peptide transport","1/1","200/18870",0.0105988341282459,0.0165996446273263,NA,"3553",1
+"BP","GO:0032388","positive regulation of intracellular transport","1/1","201/18870",0.0106518282988872,0.0166215342685932,NA,"3553",1
+"BP","GO:0032869","cellular response to insulin stimulus","1/1","206/18870",0.010916799152093,0.0169111143228786,NA,"3553",1
+"BP","GO:0044703","multi-organism reproductive process","1/1","206/18870",0.010916799152093,0.0169111143228786,NA,"3553",1
+"BP","GO:0002819","regulation of adaptive immune response","1/1","208/18870",0.0110227874933756,0.0170134328702102,NA,"3553",1
+"BP","GO:0045732","positive regulation of protein catabolic process","1/1","210/18870",0.0111287758346581,0.017115012655467,NA,"3553",1
+"BP","GO:0009612","response to mechanical stimulus","1/1","213/18870",0.0112877583465818,0.0171317750792094,NA,"3553",1
+"BP","GO:0042098","T cell proliferation","1/1","213/18870",0.0112877583465818,0.0171317750792094,NA,"3553",1
+"BP","GO:1901888","regulation of cell junction assembly","1/1","213/18870",0.0112877583465818,0.0171317750792094,NA,"3553",1
+"BP","GO:0002064","epithelial cell development","1/1","214/18870",0.0113407525172231,0.0171317750792094,NA,"3553",1
+"BP","GO:0045216","cell-cell junction organization","1/1","214/18870",0.0113407525172231,0.0171317750792094,NA,"3553",1
+"BP","GO:0044706","multi-multicellular organism process","1/1","216/18870",0.0114467408585054,0.0172307830590929,NA,"3553",1
+"BP","GO:1903828","negative regulation of protein localization","1/1","218/18870",0.011552729199788,0.017329093799682,NA,"3553",1
+"BP","GO:0051348","negative regulation of transferase activity","1/1","225/18870",0.0119236883942765,0.0176542102860034,NA,"3553",1
+"BP","GO:0033157","regulation of intracellular protein transport","1/1","226/18870",0.0119766825649178,0.0176542102860034,NA,"3553",1
+"BP","GO:0042180","cellular ketone metabolic process","1/1","226/18870",0.0119766825649178,0.0176542102860034,NA,"3553",1
+"BP","GO:0071222","cellular response to lipopolysaccharide","1/1","226/18870",0.0119766825649178,0.0176542102860034,NA,"3553",1
+"BP","GO:0072330","monocarboxylic acid biosynthetic process","1/1","226/18870",0.0119766825649178,0.0176542102860034,NA,"3553",1
+"BP","GO:0097191","extrinsic apoptotic signaling pathway","1/1","229/18870",0.0121356650768415,0.0177820850665328,NA,"3553",1
+"BP","GO:0009743","response to carbohydrate","1/1","230/18870",0.0121886592474826,0.0177820850665328,NA,"3553",1
+"BP","GO:0051403","stress-activated MAPK cascade","1/1","230/18870",0.0121886592474826,0.0177820850665328,NA,"3553",1
+"BP","GO:0006909","phagocytosis","1/1","237/18870",0.0125596184419713,0.0181504154144371,NA,"3553",1
+"BP","GO:0031098","stress-activated protein kinase signaling cascade","1/1","238/18870",0.0126126126126124,0.0181504154144371,NA,"3553",1
+"BP","GO:0050670","regulation of lymphocyte proliferation","1/1","238/18870",0.0126126126126124,0.0181504154144371,NA,"3553",1
+"BP","GO:0071219","cellular response to molecule of bacterial origin","1/1","239/18870",0.0126656067832537,0.0181504154144371,NA,"3553",1
+"BP","GO:0030595","leukocyte chemotaxis","1/1","240/18870",0.0127186009538952,0.0181504154144371,NA,"3553",1
+"BP","GO:0030072","peptide hormone secretion","1/1","241/18870",0.0127715951245362,0.0181504154144371,NA,"3553",1
+"BP","GO:0032944","regulation of mononuclear cell proliferation","1/1","242/18870",0.0128245892951774,0.0181504154144371,NA,"3553",1
+"BP","GO:0050769","positive regulation of neurogenesis","1/1","242/18870",0.0128245892951774,0.0181504154144371,NA,"3553",1
+"BP","GO:0097529","myeloid leukocyte migration","1/1","242/18870",0.0128245892951774,0.0181504154144371,NA,"3553",1
+"BP","GO:2001234","negative regulation of apoptotic signaling pathway","1/1","243/18870",0.0128775834658187,0.018165068067678,NA,"3553",1
+"BP","GO:0051091","positive regulation of DNA-binding transcription factor activity","1/1","244/18870",0.01293057763646,0.0181796240037358,NA,"3553",1
+"BP","GO:0002790","peptide secretion","1/1","246/18870",0.0130365659777423,0.0182683457451257,NA,"3553",1
+"BP","GO:0002703","regulation of leukocyte mediated immunity","1/1","249/18870",0.0131955484896661,0.0184305037921238,NA,"3553",1
+"BP","GO:0046883","regulation of hormone secretion","1/1","251/18870",0.0133015368309486,0.0184575071334987,NA,"3553",1
+"BP","GO:0050870","positive regulation of T cell activation","1/1","251/18870",0.0133015368309486,0.0184575071334987,NA,"3553",1
+"BP","GO:0010001","glial cell differentiation","1/1","252/18870",0.0133545310015899,0.0184708772944068,NA,"3553",1
+"BP","GO:0006959","humoral immune response","1/1","258/18870",0.0136724960254371,0.018849460539923,NA,"3553",1
+"BP","GO:0015833","peptide transport","1/1","262/18870",0.0138844727080021,0.0189576454282336,NA,"3553",1
+"BP","GO:0048762","mesenchymal cell differentiation","1/1","262/18870",0.0138844727080021,0.0189576454282336,NA,"3553",1
+"BP","GO:0090068","positive regulation of cell cycle process","1/1","262/18870",0.0138844727080021,0.0189576454282336,NA,"3553",1
+"BP","GO:0043122","regulation of canonical NF-kappaB signal transduction","1/1","265/18870",0.0140434552199257,0.0190525857442304,NA,"3553",1
+"BP","GO:0071216","cellular response to biotic stimulus","1/1","265/18870",0.0140434552199257,0.0190525857442304,NA,"3553",1
+"BP","GO:0050708","regulation of protein secretion","1/1","266/18870",0.014096449390567,0.0190637696520049,NA,"3553",1
+"BP","GO:0070663","regulation of leukocyte proliferation","1/1","267/18870",0.0141494435612082,0.0190748827755528,NA,"3553",1
+"BP","GO:0032868","response to insulin","1/1","269/18870",0.0142554319024908,0.0191571419257447,NA,"3553",1
+"BP","GO:0002699","positive regulation of immune effector process","1/1","270/18870",0.0143084260731317,0.0191678915319311,NA,"3553",1
+"BP","GO:0140014","mitotic nuclear division","1/1","274/18870",0.0145204027556967,0.0193908826768865,NA,"3553",1
+"BP","GO:1903039","positive regulation of leukocyte cell-cell adhesion","1/1","275/18870",0.0145733969263381,0.0194008346581876,NA,"3553",1
+"BP","GO:0045860","positive regulation of protein kinase activity","1/1","282/18870",0.0149443561208266,0.0198326969080128,NA,"3553",1
+"BP","GO:0071900","regulation of protein serine/threonine kinase activity","1/1","285/18870",0.0151033386327502,0.0199814355824583,NA,"3553",1
+"BP","GO:0010721","negative regulation of cell development","1/1","287/18870",0.0152093269740328,0.0200593600338636,NA,"3553",1
+"BP","GO:1903532","positive regulation of secretion by cell","1/1","288/18870",0.0152623211446742,0.020067125949479,NA,"3553",1
+"BP","GO:0051962","positive regulation of nervous system development","1/1","290/18870",0.0153683094859565,0.0201443072031306,NA,"3553",1
+"BP","GO:0030100","regulation of endocytosis","1/1","291/18870",0.0154213036565977,0.0201517649009528,NA,"3553",1
+"BP","GO:0007249","canonical NF-kappaB signal transduction","1/1","300/18870",0.0158982511923689,0.0207114832047374,NA,"3553",1
+"BP","GO:0001933","negative regulation of protein phosphorylation","1/1","304/18870",0.0161102278749335,0.0209236496180539,NA,"3553",1
+"BP","GO:0030217","T cell differentiation","1/1","307/18870",0.0162692103868574,0.0209435516310075,NA,"3553",1
+"BP","GO:0046651","lymphocyte proliferation","1/1","307/18870",0.0162692103868574,0.0209435516310075,NA,"3553",1
+"BP","GO:0046879","hormone secretion","1/1","308/18870",0.0163222045574988,0.0209435516310075,NA,"3553",1
+"BP","GO:0051222","positive regulation of protein transport","1/1","308/18870",0.0163222045574988,0.0209435516310075,NA,"3553",1
+"BP","GO:0051047","positive regulation of secretion","1/1","310/18870",0.0164281928987809,0.0209533238768883,NA,"3553",1
+"BP","GO:0071375","cellular response to peptide hormone stimulus","1/1","310/18870",0.0164281928987809,0.0209533238768883,NA,"3553",1
+"BP","GO:0070372","regulation of ERK1 and ERK2 cascade","1/1","313/18870",0.0165871754107048,0.021034754426271,NA,"3553",1
+"BP","GO:0002440","production of molecular mediator of immune response","1/1","314/18870",0.0166401695813458,0.021034754426271,NA,"3553",1
+"BP","GO:0032943","mononuclear cell proliferation","1/1","314/18870",0.0166401695813458,0.021034754426271,NA,"3553",1
+"BP","GO:0009914","hormone transport","1/1","319/18870",0.016905140434552,0.0211920588456717,NA,"3553",1
+"BP","GO:0022409","positive regulation of cell-cell adhesion","1/1","322/18870",0.0170641229464759,0.0211920588456717,NA,"3553",1
+"BP","GO:1904951","positive regulation of establishment of protein localization","1/1","324/18870",0.0171701112877584,0.0211920588456717,NA,"3553",1
+"BP","GO:0060326","cell chemotaxis","1/1","325/18870",0.0172231054583997,0.0211920588456717,NA,"3553",1
+"BP","GO:0042326","negative regulation of phosphorylation","1/1","327/18870",0.0173290937996818,0.0211920588456717,NA,"3553",1
+"BP","GO:0060485","mesenchyme development","1/1","327/18870",0.0173290937996818,0.0211920588456717,NA,"3553",1
+"BP","GO:0006913","nucleocytoplasmic transport","1/1","330/18870",0.0174880763116056,0.0211920588456717,NA,"3553",1
+"BP","GO:0042742","defense response to bacterium","1/1","330/18870",0.0174880763116056,0.0211920588456717,NA,"3553",1
+"BP","GO:0051169","nuclear transport","1/1","330/18870",0.0174880763116056,0.0211920588456717,NA,"3553",1
+"BP","GO:0051251","positive regulation of lymphocyte activation","1/1","330/18870",0.0174880763116056,0.0211920588456717,NA,"3553",1
+"BP","GO:0016042","lipid catabolic process","1/1","334/18870",0.0177000529941703,0.0211920588456717,NA,"3553",1
+"BP","GO:0045787","positive regulation of cell cycle","1/1","334/18870",0.0177000529941703,0.0211920588456717,NA,"3553",1
+"BP","GO:0046394","carboxylic acid biosynthetic process","1/1","334/18870",0.0177000529941703,0.0211920588456717,NA,"3553",1
+"BP","GO:0051607","defense response to virus","1/1","334/18870",0.0177000529941703,0.0211920588456717,NA,"3553",1
+"BP","GO:0071214","cellular response to abiotic stimulus","1/1","334/18870",0.0177000529941703,0.0211920588456717,NA,"3553",1
+"BP","GO:0104004","cellular response to environmental stimulus","1/1","334/18870",0.0177000529941703,0.0211920588456717,NA,"3553",1
+"BP","GO:0140546","defense response to symbiont","1/1","335/18870",0.0177530471648117,0.0211920588456717,NA,"3553",1
+"BP","GO:0032386","regulation of intracellular transport","1/1","336/18870",0.017806041335453,0.0211920588456717,NA,"3553",1
+"BP","GO:0070371","ERK1 and ERK2 cascade","1/1","336/18870",0.017806041335453,0.0211920588456717,NA,"3553",1
+"BP","GO:0016053","organic acid biosynthetic process","1/1","337/18870",0.0178590355060942,0.0211920588456717,NA,"3553",1
+"BP","GO:0033674","positive regulation of kinase activity","1/1","337/18870",0.0178590355060942,0.0211920588456717,NA,"3553",1
+"BP","GO:0062012","regulation of small molecule metabolic process","1/1","337/18870",0.0178590355060942,0.0211920588456717,NA,"3553",1
+"BP","GO:0042063","gliogenesis","1/1","338/18870",0.0179120296767357,0.0211959017841372,NA,"3553",1
+"BP","GO:0019216","regulation of lipid metabolic process","1/1","342/18870",0.0181240063593003,0.0213873316040497,NA,"3553",1
+"BP","GO:0071496","cellular response to external stimulus","1/1","346/18870",0.0183359830418653,0.0214712794636066,NA,"3553",1
+"BP","GO:0032496","response to lipopolysaccharide","1/1","348/18870",0.0184419713831476,0.0214712794636066,NA,"3553",1
+"BP","GO:0009895","negative regulation of catabolic process","1/1","349/18870",0.0184949655537889,0.0214712794636066,NA,"3553",1
+"BP","GO:0045765","regulation of angiogenesis","1/1","349/18870",0.0184949655537889,0.0214712794636066,NA,"3553",1
+"BP","GO:0045862","positive regulation of proteolysis","1/1","350/18870",0.0185479597244301,0.0214712794636066,NA,"3553",1
+"BP","GO:0051235","maintenance of location","1/1","350/18870",0.0185479597244301,0.0214712794636066,NA,"3553",1
+"BP","GO:0070661","leukocyte proliferation","1/1","350/18870",0.0185479597244301,0.0214712794636066,NA,"3553",1
+"BP","GO:0046942","carboxylic acid transport","1/1","351/18870",0.0186009538950714,0.0214742719764239,NA,"3553",1
+"BP","GO:0015849","organic acid transport","1/1","352/18870",0.0186539480657126,0.0214772483134962,NA,"3553",1
+"BP","GO:0042886","amide transport","1/1","354/18870",0.0187599364069951,0.0214831529822041,NA,"3553",1
+"BP","GO:1901342","regulation of vasculature development","1/1","354/18870",0.0187599364069951,0.0214831529822041,NA,"3553",1
+"BP","GO:0090287","regulation of cellular response to growth factor stimulus","1/1","357/18870",0.0189189189189189,0.0216071299181219,NA,"3553",1
+"BP","GO:0042176","regulation of protein catabolic process","1/1","364/18870",0.0192898781134073,0.0219718932521698,NA,"3553",1
+"BP","GO:1902074","response to salt","1/1","366/18870",0.01939586645469,0.021979856622104,NA,"3553",1
+"BP","GO:0002449","lymphocyte mediated immunity","1/1","368/18870",0.0195018547959723,0.021979856622104,NA,"3553",1
+"BP","GO:0009306","protein secretion","1/1","368/18870",0.0195018547959723,0.021979856622104,NA,"3553",1
+"BP","GO:0002237","response to molecule of bacterial origin","1/1","369/18870",0.0195548489666136,0.021979856622104,NA,"3553",1
+"BP","GO:0035592","establishment of protein localization to extracellular region","1/1","369/18870",0.0195548489666136,0.021979856622104,NA,"3553",1
+"BP","GO:1901653","cellular response to peptide","1/1","374/18870",0.0198198198198196,0.0222190611664294,NA,"3553",1
+"BP","GO:0045936","negative regulation of phosphate metabolic process","1/1","376/18870",0.0199258081611021,0.0222218532462734,NA,"3553",1
+"BP","GO:0010563","negative regulation of phosphorus metabolic process","1/1","377/18870",0.0199788023317434,0.0222218532462734,NA,"3553",1
+"BP","GO:0071692","protein localization to extracellular region","1/1","377/18870",0.0199788023317434,0.0222218532462734,NA,"3553",1
+"BP","GO:0002460","adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains","1/1","380/18870",0.0201377848436672,0.0222823281646812,NA,"3553",1
+"BP","GO:0002696","positive regulation of leukocyte activation","1/1","380/18870",0.0201377848436672,0.0222823281646812,NA,"3553",1
+"BP","GO:0050863","regulation of T cell activation","1/1","381/18870",0.0201907790143084,0.0222830877204544,NA,"3553",1
+"BP","GO:1903037","regulation of leukocyte cell-cell adhesion","1/1","382/18870",0.0202437731849494,0.0222838433508745,NA,"3553",1
+"BP","GO:0002697","regulation of immune effector process","1/1","389/18870",0.020614732379438,0.0226335514404469,NA,"3553",1
+"BP","GO:0050767","regulation of neurogenesis","1/1","390/18870",0.0206677265500794,0.0226335514404469,NA,"3553",1
+"BP","GO:0031331","positive regulation of cellular catabolic process","1/1","396/18870",0.0209856915739267,0.0228058791083999,NA,"3553",1
+"BP","GO:0050867","positive regulation of cell activation","1/1","396/18870",0.0209856915739267,0.0228058791083999,NA,"3553",1
+"BP","GO:0050900","leukocyte migration","1/1","396/18870",0.0209856915739267,0.0228058791083999,NA,"3553",1
+"BP","GO:2001233","regulation of apoptotic signaling pathway","1/1","398/18870",0.0210916799152094,0.0228627370073263,NA,"3553",1
+"BP","GO:0006631","fatty acid metabolic process","1/1","401/18870",0.021250662427133,0.0229766045531946,NA,"3553",1
+"BP","GO:0051090","regulation of DNA-binding transcription factor activity","1/1","406/18870",0.021515633280339,0.0232042019681631,NA,"3553",1
+"BP","GO:0051347","positive regulation of transferase activity","1/1","414/18870",0.0219395866454691,0.0236016765428532,NA,"3553",1
+"BP","GO:0007159","leukocyte cell-cell adhesion","1/1","419/18870",0.0222045574986751,0.0238265528827093,NA,"3553",1
+"BP","GO:0050727","regulation of inflammatory response","1/1","425/18870",0.0225225225225224,0.0241070215944587,NA,"3553",1
+"BP","GO:0030098","lymphocyte differentiation","1/1","429/18870",0.0227344992050872,0.024268680445151,NA,"3553",1
+"BP","GO:0043434","response to peptide hormone","1/1","430/18870",0.0227874933757286,0.024268680445151,NA,"3553",1
+"BP","GO:0009410","response to xenobiotic stimulus","1/1","434/18870",0.0229994700582935,0.0244333522315038,NA,"3553",1
+"BP","GO:0009615","response to virus","1/1","436/18870",0.0231054583995759,0.0244801508558624,NA,"3553",1
+"BP","GO:0031400","negative regulation of protein modification process","1/1","437/18870",0.0231584525702172,0.0244801508558624,NA,"3553",1
+"BP","GO:0000280","nuclear division","1/1","441/18870",0.0233704292527821,0.0246430763903098,NA,"3553",1
+"BP","GO:0015711","organic anion transport","1/1","443/18870",0.0234764175940645,0.0246884960880904,NA,"3553",1
+"BP","GO:0010720","positive regulation of cell development","1/1","444/18870",0.0235294117647059,0.0246884960880904,NA,"3553",1
+"BP","GO:0034329","cell junction assembly","1/1","446/18870",0.0236354001059883,0.0247387725925086,NA,"3553",1
+"BP","GO:0003012","muscle system process","1/1","452/18870",0.0239533651298356,0.0250041786357045,NA,"3553",1
+"BP","GO:0006869","lipid transport","1/1","453/18870",0.0240063593004769,0.0250041786357045,NA,"3553",1
+"BP","GO:0002443","leukocyte mediated immunity","1/1","466/18870",0.0246952835188129,0.0255965712384776,NA,"3553",1
+"BP","GO:0051960","regulation of nervous system development","1/1","466/18870",0.0246952835188129,0.0255965712384776,NA,"3553",1
+"BP","GO:0006935","chemotaxis","1/1","468/18870",0.0248012718600953,0.0256292097724322,NA,"3553",1
+"BP","GO:0051051","negative regulation of transport","1/1","469/18870",0.0248542660307367,0.0256292097724322,NA,"3553",1
+"BP","GO:0042330","taxis","1/1","470/18870",0.0249072602013778,0.0256292097724322,NA,"3553",1
+"BP","GO:0043410","positive regulation of MAPK cascade","1/1","474/18870",0.0251192368839426,0.0257850479820712,NA,"3553",1
+"BP","GO:1903829","positive regulation of protein localization","1/1","476/18870",0.025225225225225,0.0258316008316006,NA,"3553",1
+"BP","GO:0031349","positive regulation of defense response","1/1","480/18870",0.0254372019077901,0.0259080929669165,NA,"3553",1
+"BP","GO:0043086","negative regulation of catalytic activity","1/1","480/18870",0.0254372019077901,0.0259080929669165,NA,"3553",1
+"BP","GO:1903131","mononuclear cell differentiation","1/1","481/18870",0.0254901960784314,0.0259080929669165,NA,"3553",1
+"BP","GO:0045785","positive regulation of cell adhesion","1/1","482/18870",0.0255431902490726,0.0259080929669165,NA,"3553",1
+"BP","GO:0023061","signal release","1/1","484/18870",0.025649178590355,0.0259538006638746,NA,"3553",1
+"BP","GO:0048285","organelle fission","1/1","488/18870",0.0258611552729197,0.0260896301406845,NA,"3553",1
+"BP","GO:0050804","modulation of chemical synaptic transmission","1/1","489/18870",0.0259141494435612,0.0260896301406845,NA,"3553",1
+"BP","GO:0099177","regulation of trans-synaptic signaling","1/1","490/18870",0.0259671436142024,0.0260896301406845,NA,"3553",1
+"BP","GO:0022407","regulation of cell-cell adhesion","1/1","493/18870",0.0261261261261261,0.0261875993640699,NA,"3553",1
+"BP","GO:0001819","positive regulation of cytokine production","1/1","499/18870",0.0264440911499734,0.0264440911499734,NA,"3553",1
+"MF","GO:0005149","interleukin-1 receptor binding","1/1","17/18496",0.000919117647058876,0.00459558823529438,NA,"3553",1
+"MF","GO:0070851","growth factor receptor binding","1/1","138/18496",0.00746107266435991,0.0138768742791234,NA,"3553",1
+"MF","GO:0005178","integrin binding","1/1","154/18496",0.00832612456747406,0.0138768742791234,NA,"3553",1
+"MF","GO:0005125","cytokine activity","1/1","237/18496",0.0128135813148789,0.014759948096886,NA,"3553",1
+"MF","GO:0005126","cytokine receptor binding","1/1","273/18496",0.014759948096886,0.014759948096886,NA,"3553",1

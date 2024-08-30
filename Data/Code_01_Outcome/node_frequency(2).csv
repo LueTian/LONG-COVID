@@ -1,0 +1,97 @@
+Conditions,Count Num Source,Count Num(Weighted Corr) Source,Count Num(Weighted RR) Source,Count Num Target,Count Num(Weighted Corr) Target,Count Num(Weighted RR) Target,Detail,Detail_extend
+ICD9 011,0.0,0.0,0.0,1.0,0.0158856846612933,3.065168539325842,Pulmonary tuberculosis,001-139:Infectious And Parasitic Diseases
+ICD9 037,1.0,0.0105281022107852,2.548638351751553,2.0,0.033943185705558,4.0743486282428325,Tetanus,001-139:Infectious And Parasitic Diseases
+ICD9 038,2.0,0.0451196312331887,2.333406874321608,2.0,0.0479818178236706,5.293899702741063,Septicemia,001-139:Infectious And Parasitic Diseases
+ICD9 050,0.0,0.0,0.0,1.0,0.061813624779134095,2.2368615971100443,Smallpox,001-139:Infectious And Parasitic Diseases
+ICD9 079,10.0,0.2099357632296982,36.5828031889129,54.0,0.6512521844685704,92.14187594188466,Viral and chlamydial infection in conditions classified elsewhere and of unspecified site,001-139:Infectious And Parasitic Diseases
+ICD9 093,0.0,0.0,0.0,1.0,0.0212311319697952,3.043774561601387,Cardiovascular syphilis,001-139:Infectious And Parasitic Diseases
+ICD9 154,0.0,0.0,0.0,1.0,0.031105795124971296,1.6535146184851508,Malignant neoplasm of rectum rectosigmoid junction and anus,140-239:Neoplasms
+ICD9 197,1.0,0.0029664574610038996,2.572298640558026,1.0,0.0159080658778428,2.534751402844839,Secondary malignant neoplasm of respiratory and digestive systems,140-239:Neoplasms
+ICD9 198,0.0,0.0,0.0,1.0,0.0033662030411519992,1.0488727266427078,Secondary malignant neoplasm of other specified sites,140-239:Neoplasms
+ICD9 250,2.0,0.023290038248793,2.4525553588940845,2.0,0.0307244901582083,4.458031234363918,Diabetes mellitus,"240-279:Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders"
+ICD9 251,0.0,0.0,0.0,1.0,0.0214531112293023,2.1498772828292583,Other disorders of pancreatic internal secretion,"240-279:Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders"
+ICD9 272,3.0,0.026321068286189103,3.6749763811028924,4.0,0.023958376087579104,4.209798784128702,Disorders of lipoid metabolism,"240-279:Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders"
+ICD9 274,2.0,0.0586425354619593,6.51568026001257,1.0,0.0191499097888582,2.0666597057427625,Gout,"240-279:Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders"
+ICD9 276,1.0,0.0214138381476573,1.1873026491142533,5.0,0.0883015029068802,12.461729626847426,Disorders of fluid electrolyte and acid-base balance,"240-279:Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders"
+ICD9 281,2.0,0.0483729066927954,3.8354080722942623,1.0,0.015482550878885799,2.803571428571429,Other deficiency anemias,280-289:Diseases Of The Blood And Blood-Forming Organs
+ICD9 294,0.0,0.0,0.0,2.0,0.0342061193391489,6.3818781924512695,Persistent mental disorders due to conditions classified elsewhere,290-319:Mental Disorders
+ICD9 311,1.0,0.013668465595929699,2.263006789200186,1.0,0.0167114894532128,3.6439299794985023,"Depressive disorder, not elsewhere classified",290-319:Mental Disorders
+ICD9 386,0.0,0.0,0.0,1.0,0.0180361200849203,3.117568987446773,Vertiginous syndromes and other disorders of vestibular system,320-389:Diseases Of The Nervous System And Sense Organs
+ICD9 401,4.0,0.014712648082316294,4.331237759799864,1.0,0.0194114773474902,2.8697815257282375,Essential hypertension,390-459:Diseases Of The Circulatory System
+ICD9 424,0.0,0.0,0.0,1.0,0.015657527721047698,2.171690314471489,Other diseases of endocardium,390-459:Diseases Of The Circulatory System
+ICD9 427,2.0,0.0246391674485164,2.2845330083701354,1.0,0.028200629161958098,3.860582995951417,Cardiac dysrhythmias,390-459:Diseases Of The Circulatory System
+ICD9 428,2.0,0.0397135311634072,3.4266658682667703,4.0,0.0649936944281789,11.24043479495415,Heart failure,390-459:Diseases Of The Circulatory System
+ICD9 455,1.0,0.0104964134898102,2.050778390512908,1.0,0.016118697392067997,3.574334777227723,Hemorrhoids,390-459:Diseases Of The Circulatory System
+ICD9 482,1.0,0.0086979916689859,1.151946602068704,1.0,0.0280248945037695,5.619690154922539,Other bacterial pneumonia,460-519:Diseases Of The Respiratory System
+ICD9 486,2.0,0.07246934888911,2.2861649527349286,3.0,0.0650235859418099,7.5378233282638085,"Pneumonia, organism unspecified",460-519:Diseases Of The Respiratory System
+ICD9 496,2.0,0.049461752403914504,3.3828790709496124,1.0,0.012862567895629099,1.4172210182007905,"Chronic airway obstruction, not elsewhere classified",460-519:Diseases Of The Respiratory System
+ICD9 518,2.0,0.029113167367165002,3.312732779244583,1.0,0.0178454139376589,3.318936383447343,Other diseases of lung,460-519:Diseases Of The Respiratory System
+ICD9 519,7.0,0.1460420133438882,16.372970007404042,41.0,0.5496270303819695,66.69185096800412,Other diseases of respiratory system,460-519:Diseases Of The Respiratory System
+ICD9 535,3.0,0.022713567567674897,4.7599136822138215,2.0,0.05347095313980956,6.512985548103918,Gastritis and duodenitis,520-579:Diseases Of The Digestive System
+ICD9 562,1.0,0.015573633209699001,2.3156649656649657,1.0,0.0166625655172291,3.379904361146088,Diverticula of intestine,520-579:Diseases Of The Digestive System
+ICD9 578,1.0,0.0038072570775287,1.0794515636034483,1.0,0.0172841317596929,3.5884024654673943,Gastrointestinal hemorrhage,520-579:Diseases Of The Digestive System
+ICD9 585,2.0,0.06270248123770181,4.400252904411099,1.0,0.022702906981024496,1.722009576864202,Chronic kidney disease (ckd),580-629:Diseases Of The Genitourinary System
+ICD9 599,1.0,0.007940681146338703,1.0562550742399985,2.0,0.045613707869233,5.081195594231757,Other disorders of urethra and urinary tract,580-629:Diseases Of The Genitourinary System
+ICD9 600,2.0,0.0347604358638498,3.872152224025633,1.0,0.0158855614425244,3.6422943952558526,Hyperplasia of prostate,580-629:Diseases Of The Genitourinary System
+ICD9 682,1.0,0.007368929460442499,1.0883974894071156,1.0,0.0177671925500749,2.5182219219457913,Other cellulitis and abscess,680-709:Diseases Of The Skin And Subcutaneous Tissue
+ICD9 707,0.0,0.0,0.0,1.0,0.0205303317356968,1.95606674241615,Chronic ulcer of skin,680-709:Diseases Of The Skin And Subcutaneous Tissue
+ICD9 719,4.0,0.0549843873628169,7.115501910760189,1.0,0.00012092165880710042,1.0228479610324037,Other and unspecified disorders of joint,710-739:Diseases Of The Musculoskeletal System And Connective Tissue
+ICD9 780,2.0,0.015797813505272203,2.0578382691369215,1.0,0.0108137059783574,3.513350069456991,General symptoms,"780-799:Symptoms, Signs, And Ill-Defined Conditions"
+ICD9 785,0.0,0.0,0.0,1.0,0.0177051017599386,2.605905532123464,Symptoms involving cardiovascular system,"780-799:Symptoms, Signs, And Ill-Defined Conditions"
+ICD9 786,1.0,0.012862567895629099,1.4172210182007905,4.0,0.0711111526362593,11.12724387934865,Symptoms involving respiratory system and other chest symptoms,"780-799:Symptoms, Signs, And Ill-Defined Conditions"
+ICD9 788,4.0,0.060265438707664196,8.317292789207421,4.0,0.06480490942660071,13.441530434307657,Symptoms involving urinary system,"780-799:Symptoms, Signs, And Ill-Defined Conditions"
+ICD9 789,0.0,0.0,0.0,1.0,0.0147990463308496,3.059522620593229,Other symptoms involving abdomen and pelvis,"780-799:Symptoms, Signs, And Ill-Defined Conditions"
+ICD9 799,0.0,0.0,0.0,1.0,0.0215230883675344,5.108952447974263,Other ill-defined and unknown causes of morbidity and mortality,"780-799:Symptoms, Signs, And Ill-Defined Conditions"
+ICD9 996,2.0,0.0295297785529223,2.742019044604521,1.0,0.0320091611231413,2.764455102584599,Complications peculiar to certain specified procedures,800-999:Injury And Poisoning
+ICD9 039,2.0,0.0588519852441192,5.616112616916741,0.0,0.0,0.0,Actinomycotic infections,001-139:Infectious And Parasitic Diseases
+ICD9 041,1.0,0.013416139516262159,1.9319444687644096,0.0,0.0,0.0,Bacterial infection in conditions classified elsewhere and of unspecified site,001-139:Infectious And Parasitic Diseases
+ICD9 155,1.0,0.061813624779134095,2.2368615971100443,0.0,0.0,0.0,Malignant neoplasm of liver and intrahepatic bile ducts,140-239:Neoplasms
+ICD9 162,2.0,0.007356178278227699,8.64161877600332,0.0,0.0,0.0,Malignant neoplasm of trachea bronchus and lung,140-239:Neoplasms
+ICD9 218,1.0,0.0108137059783574,3.513350069456991,0.0,0.0,0.0,Uterine leiomyoma,140-239:Neoplasms
+ICD9 241,1.0,0.0147990463308496,3.059522620593229,0.0,0.0,0.0,Nontoxic nodular goiter,"240-279:Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders"
+ICD9 266,2.0,0.018961711159241702,3.868424410353618,0.0,0.0,0.0,Deficiency of b-complex components,"240-279:Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders"
+ICD9 278,1.0,0.0158855614425244,3.6422943952558526,0.0,0.0,0.0,"Overweight, obesity and other hyperalimentation","240-279:Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders"
+ICD9 280,2.0,0.009854963437034101,2.693994670060578,0.0,0.0,0.0,Iron deficiency anemias,280-289:Diseases Of The Blood And Blood-Forming Organs
+ICD9 285,3.0,0.0576385736051451,6.48007147149575,0.0,0.0,0.0,Other and unspecified anemias,280-289:Diseases Of The Blood And Blood-Forming Organs
+ICD9 332,2.0,0.024653475257433798,2.6429744591586832,0.0,0.0,0.0,Parkinson's disease,320-389:Diseases Of The Nervous System And Sense Organs
+ICD9 351,1.0,0.0203047533552515,6.049345111178801,0.0,0.0,0.0,Facial nerve disorders,320-389:Diseases Of The Nervous System And Sense Organs
+ICD9 362,1.0,0.0172841317596929,3.5884024654673943,0.0,0.0,0.0,Other retinal disorders,320-389:Diseases Of The Nervous System And Sense Organs
+ICD9 366,5.0,0.0758818907070333,9.166805355346359,0.0,0.0,0.0,Cataract,320-389:Diseases Of The Nervous System And Sense Organs
+ICD9 379,2.0,0.033285765396442,5.49740595163507,0.0,0.0,0.0,Other disorders of eye,320-389:Diseases Of The Nervous System And Sense Organs
+ICD9 403,2.0,0.0279318601876574,2.6297111637337656,0.0,0.0,0.0,Hypertensive chronic kidney disease,390-459:Diseases Of The Circulatory System
+ICD9 410,3.0,0.022115660409815302,6.522575873487584,0.0,0.0,0.0,Acute myocardial infarction,390-459:Diseases Of The Circulatory System
+ICD9 412,1.0,0.028200629161958098,3.860582995951417,0.0,0.0,0.0,Old myocardial infarction,390-459:Diseases Of The Circulatory System
+ICD9 414,2.0,0.0193117790252952,3.1432431588686907,0.0,0.0,0.0,Other forms of chronic ischemic heart disease,390-459:Diseases Of The Circulatory System
+ICD9 426,1.0,0.0236780171283637,3.833239840699716,0.0,0.0,0.0,Conduction disorders,390-459:Diseases Of The Circulatory System
+ICD9 434,2.0,0.035995412548858796,4.365770020187469,0.0,0.0,0.0,Occlusion of cerebral arteries,390-459:Diseases Of The Circulatory System
+ICD9 436,1.0,0.0068496075996517,1.3821152782809312,0.0,0.0,0.0,"Acute, but ill-defined, cerebrovascular disease",390-459:Diseases Of The Circulatory System
+ICD9 437,1.0,0.0136792373246283,1.5201921508710527,0.0,0.0,0.0,Other and ill-defined cerebrovascular disease,390-459:Diseases Of The Circulatory System
+ICD9 458,2.0,0.0284350346568757,2.661804110892474,0.0,0.0,0.0,Hypotension,390-459:Diseases Of The Circulatory System
+ICD9 478,1.0,0.0160049811550051,3.834531250000001,0.0,0.0,0.0,Other diseases of upper respiratory tract,460-519:Diseases Of The Respiratory System
+ICD9 490,1.0,0.0225163383107997,2.671974944926613,0.0,0.0,0.0,"Bronchitis, not specified as acute or chronic",460-519:Diseases Of The Respiratory System
+ICD9 493,2.0,0.0160253436734926,2.6128888250284876,0.0,0.0,0.0,Asthma,460-519:Diseases Of The Respiratory System
+ICD9 511,2.0,0.0267760976696472,8.06893413594454,0.0,0.0,0.0,Pleurisy,460-519:Diseases Of The Respiratory System
+ICD9 530,1.0,0.0043089298403049,1.326499982757918,0.0,0.0,0.0,Diseases of esophagus,520-579:Diseases Of The Digestive System
+ICD9 531,2.0,0.0273838197625701,6.635041432118053,0.0,0.0,0.0,Gastric ulcer,520-579:Diseases Of The Digestive System
+ICD9 533,1.0,0.0400548136235474,4.581041079339508,0.0,0.0,0.0,Peptic ulcer site unspecified,520-579:Diseases Of The Digestive System
+ICD9 536,1.0,0.0077801873687967,1.4165624573378839,0.0,0.0,0.0,Disorders of function of stomach,520-579:Diseases Of The Digestive System
+ICD9 550,1.0,0.0137611640781789,2.2830557758392804,0.0,0.0,0.0,Inguinal hernia,520-579:Diseases Of The Digestive System
+ICD9 560,2.0,0.0190885536133668,3.1666783659388322,0.0,0.0,0.0,Intestinal obstruction without mention of hernia,520-579:Diseases Of The Digestive System
+ICD9 564,1.0,0.010379703992116901,1.0949975831016538,0.0,0.0,0.0,Functional digestive disorders not elsewhere classified,520-579:Diseases Of The Digestive System
+ICD9 569,4.0,0.06593531276943929,6.770381008959018,0.0,0.0,0.0,Other disorders of intestine,520-579:Diseases Of The Digestive System
+ICD9 571,1.0,0.0025338328499549,1.8124816812932676,0.0,0.0,0.0,Chronic liver disease and cirrhosis,520-579:Diseases Of The Digestive System
+ICD9 573,2.0,0.0049212948758838,2.3899761813756655,0.0,0.0,0.0,Other disorders of liver,520-579:Diseases Of The Digestive System
+ICD9 574,2.0,0.017636782325915902,5.251312591570427,0.0,0.0,0.0,Cholelithiasis,520-579:Diseases Of The Digestive System
+ICD9 575,1.0,0.0320091611231413,2.764455102584599,0.0,0.0,0.0,Other disorders of gallbladder,520-579:Diseases Of The Digestive System
+ICD9 583,1.0,0.016118697392067997,3.574334777227723,0.0,0.0,0.0,Nephritis and nephropathy not specified as acute or chronic,580-629:Diseases Of The Genitourinary System
+ICD9 584,2.0,0.028887177893010797,2.740390555468548,0.0,0.0,0.0,Acute kidney failure,580-629:Diseases Of The Genitourinary System
+ICD9 593,2.0,0.0133769210170714,2.6713610817403928,0.0,0.0,0.0,Other disorders of kidney and ureter,580-629:Diseases Of The Genitourinary System
+ICD9 692,2.0,0.0178819897693731,2.5075735110406034,0.0,0.0,0.0,Contact dermatitis and other eczema,680-709:Diseases Of The Skin And Subcutaneous Tissue
+ICD9 724,2.0,0.010634659265754298,2.265516312291511,0.0,0.0,0.0,Other and unspecified disorders of back,710-739:Diseases Of The Musculoskeletal System And Connective Tissue
+ICD9 733,1.0,0.0022903368315937,1.1171260070109232,0.0,0.0,0.0,Other disorders of bone and cartilage,710-739:Diseases Of The Musculoskeletal System And Connective Tissue
+ICD9 783,2.0,0.023447772096601,2.2492643829481356,0.0,0.0,0.0,Symptoms concerning nutrition metabolism and development,"780-799:Symptoms, Signs, And Ill-Defined Conditions"
+ICD9 790,3.0,0.033273268034796,6.1426791421261004,0.0,0.0,0.0,Nonspecific findings on examination of blood,"780-799:Symptoms, Signs, And Ill-Defined Conditions"
+ICD9 791,2.0,0.0344511341884958,4.195465210517979,0.0,0.0,0.0,Nonspecific findings on examination of urine,"780-799:Symptoms, Signs, And Ill-Defined Conditions"
+ICD9 793,1.0,0.0025479203672972,1.2137093268929129,0.0,0.0,0.0,Nonspecific (abnormal) findings on radiological and other examination of body structure,"780-799:Symptoms, Signs, And Ill-Defined Conditions"
+ICD9 813,2.0,0.032764036331654,5.25233262576903,0.0,0.0,0.0,Fracture of radius and ulna,800-999:Injury And Poisoning
+ICD9 854,2.0,0.0373805338449533,3.7864735508732354,0.0,0.0,0.0,Intracranial injury of other and unspecified nature,800-999:Injury And Poisoning

@@ -1,0 +1,97 @@
+Conditions,Detail,Detail_extend
+ICD9 011,Pulmonary tuberculosis,001-139:Infectious And Parasitic Diseases
+ICD9 037,Tetanus,001-139:Infectious And Parasitic Diseases
+ICD9 038,Septicemia,001-139:Infectious And Parasitic Diseases
+ICD9 039,Actinomycotic infections,001-139:Infectious And Parasitic Diseases
+ICD9 041,Bacterial infection in conditions classified elsewhere and of unspecified site,001-139:Infectious And Parasitic Diseases
+ICD9 050,Smallpox,001-139:Infectious And Parasitic Diseases
+ICD9 079,Viral and chlamydial infection in conditions classified elsewhere and of unspecified site,001-139:Infectious And Parasitic Diseases
+ICD9 093,Cardiovascular syphilis,001-139:Infectious And Parasitic Diseases
+ICD9 154,Malignant neoplasm of rectum rectosigmoid junction and anus,140-239:Neoplasms
+ICD9 155,Malignant neoplasm of liver and intrahepatic bile ducts,140-239:Neoplasms
+ICD9 162,Malignant neoplasm of trachea bronchus and lung,140-239:Neoplasms
+ICD9 197,Secondary malignant neoplasm of respiratory and digestive systems,140-239:Neoplasms
+ICD9 198,Secondary malignant neoplasm of other specified sites,140-239:Neoplasms
+ICD9 218,Uterine leiomyoma,140-239:Neoplasms
+ICD9 241,Nontoxic nodular goiter,"240-279:Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders"
+ICD9 250,Diabetes mellitus,"240-279:Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders"
+ICD9 251,Other disorders of pancreatic internal secretion,"240-279:Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders"
+ICD9 266,Deficiency of b-complex components,"240-279:Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders"
+ICD9 272,Disorders of lipoid metabolism,"240-279:Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders"
+ICD9 274,Gout,"240-279:Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders"
+ICD9 276,Disorders of fluid electrolyte and acid-base balance,"240-279:Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders"
+ICD9 278,"Overweight, obesity and other hyperalimentation","240-279:Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders"
+ICD9 280,Iron deficiency anemias,280-289:Diseases Of The Blood And Blood-Forming Organs
+ICD9 281,Other deficiency anemias,280-289:Diseases Of The Blood And Blood-Forming Organs
+ICD9 285,Other and unspecified anemias,280-289:Diseases Of The Blood And Blood-Forming Organs
+ICD9 294,Persistent mental disorders due to conditions classified elsewhere,290-319:Mental Disorders
+ICD9 311,"Depressive disorder, not elsewhere classified",290-319:Mental Disorders
+ICD9 332,Parkinson's disease,320-389:Diseases Of The Nervous System And Sense Organs
+ICD9 351,Facial nerve disorders,320-389:Diseases Of The Nervous System And Sense Organs
+ICD9 362,Other retinal disorders,320-389:Diseases Of The Nervous System And Sense Organs
+ICD9 366,Cataract,320-389:Diseases Of The Nervous System And Sense Organs
+ICD9 379,Other disorders of eye,320-389:Diseases Of The Nervous System And Sense Organs
+ICD9 386,Vertiginous syndromes and other disorders of vestibular system,320-389:Diseases Of The Nervous System And Sense Organs
+ICD9 401,Essential hypertension,390-459:Diseases Of The Circulatory System
+ICD9 403,Hypertensive chronic kidney disease,390-459:Diseases Of The Circulatory System
+ICD9 410,Acute myocardial infarction,390-459:Diseases Of The Circulatory System
+ICD9 412,Old myocardial infarction,390-459:Diseases Of The Circulatory System
+ICD9 414,Other forms of chronic ischemic heart disease,390-459:Diseases Of The Circulatory System
+ICD9 424,Other diseases of endocardium,390-459:Diseases Of The Circulatory System
+ICD9 426,Conduction disorders,390-459:Diseases Of The Circulatory System
+ICD9 427,Cardiac dysrhythmias,390-459:Diseases Of The Circulatory System
+ICD9 428,Heart failure,390-459:Diseases Of The Circulatory System
+ICD9 434,Occlusion of cerebral arteries,390-459:Diseases Of The Circulatory System
+ICD9 436,"Acute, but ill-defined, cerebrovascular disease",390-459:Diseases Of The Circulatory System
+ICD9 437,Other and ill-defined cerebrovascular disease,390-459:Diseases Of The Circulatory System
+ICD9 455,Hemorrhoids,390-459:Diseases Of The Circulatory System
+ICD9 458,Hypotension,390-459:Diseases Of The Circulatory System
+ICD9 478,Other diseases of upper respiratory tract,460-519:Diseases Of The Respiratory System
+ICD9 482,Other bacterial pneumonia,460-519:Diseases Of The Respiratory System
+ICD9 486,"Pneumonia, organism unspecified",460-519:Diseases Of The Respiratory System
+ICD9 490,"Bronchitis, not specified as acute or chronic",460-519:Diseases Of The Respiratory System
+ICD9 493,Asthma,460-519:Diseases Of The Respiratory System
+ICD9 496,"Chronic airway obstruction, not elsewhere classified",460-519:Diseases Of The Respiratory System
+ICD9 511,Pleurisy,460-519:Diseases Of The Respiratory System
+ICD9 518,Other diseases of lung,460-519:Diseases Of The Respiratory System
+ICD9 519,Other diseases of respiratory system,460-519:Diseases Of The Respiratory System
+ICD9 530,Diseases of esophagus,520-579:Diseases Of The Digestive System
+ICD9 531,Gastric ulcer,520-579:Diseases Of The Digestive System
+ICD9 533,Peptic ulcer site unspecified,520-579:Diseases Of The Digestive System
+ICD9 535,Gastritis and duodenitis,520-579:Diseases Of The Digestive System
+ICD9 536,Disorders of function of stomach,520-579:Diseases Of The Digestive System
+ICD9 550,Inguinal hernia,520-579:Diseases Of The Digestive System
+ICD9 560,Intestinal obstruction without mention of hernia,520-579:Diseases Of The Digestive System
+ICD9 562,Diverticula of intestine,520-579:Diseases Of The Digestive System
+ICD9 564,Functional digestive disorders not elsewhere classified,520-579:Diseases Of The Digestive System
+ICD9 569,Other disorders of intestine,520-579:Diseases Of The Digestive System
+ICD9 571,Chronic liver disease and cirrhosis,520-579:Diseases Of The Digestive System
+ICD9 573,Other disorders of liver,520-579:Diseases Of The Digestive System
+ICD9 574,Cholelithiasis,520-579:Diseases Of The Digestive System
+ICD9 575,Other disorders of gallbladder,520-579:Diseases Of The Digestive System
+ICD9 578,Gastrointestinal hemorrhage,520-579:Diseases Of The Digestive System
+ICD9 583,Nephritis and nephropathy not specified as acute or chronic,580-629:Diseases Of The Genitourinary System
+ICD9 584,Acute kidney failure,580-629:Diseases Of The Genitourinary System
+ICD9 585,Chronic kidney disease (ckd),580-629:Diseases Of The Genitourinary System
+ICD9 593,Other disorders of kidney and ureter,580-629:Diseases Of The Genitourinary System
+ICD9 599,Other disorders of urethra and urinary tract,580-629:Diseases Of The Genitourinary System
+ICD9 600,Hyperplasia of prostate,580-629:Diseases Of The Genitourinary System
+ICD9 682,Other cellulitis and abscess,680-709:Diseases Of The Skin And Subcutaneous Tissue
+ICD9 692,Contact dermatitis and other eczema,680-709:Diseases Of The Skin And Subcutaneous Tissue
+ICD9 707,Chronic ulcer of skin,680-709:Diseases Of The Skin And Subcutaneous Tissue
+ICD9 719,Other and unspecified disorders of joint,710-739:Diseases Of The Musculoskeletal System And Connective Tissue
+ICD9 724,Other and unspecified disorders of back,710-739:Diseases Of The Musculoskeletal System And Connective Tissue
+ICD9 733,Other disorders of bone and cartilage,710-739:Diseases Of The Musculoskeletal System And Connective Tissue
+ICD9 780,General symptoms,"780-799:Symptoms, Signs, And Ill-Defined Conditions"
+ICD9 783,Symptoms concerning nutrition metabolism and development,"780-799:Symptoms, Signs, And Ill-Defined Conditions"
+ICD9 785,Symptoms involving cardiovascular system,"780-799:Symptoms, Signs, And Ill-Defined Conditions"
+ICD9 786,Symptoms involving respiratory system and other chest symptoms,"780-799:Symptoms, Signs, And Ill-Defined Conditions"
+ICD9 788,Symptoms involving urinary system,"780-799:Symptoms, Signs, And Ill-Defined Conditions"
+ICD9 789,Other symptoms involving abdomen and pelvis,"780-799:Symptoms, Signs, And Ill-Defined Conditions"
+ICD9 790,Nonspecific findings on examination of blood,"780-799:Symptoms, Signs, And Ill-Defined Conditions"
+ICD9 791,Nonspecific findings on examination of urine,"780-799:Symptoms, Signs, And Ill-Defined Conditions"
+ICD9 793,Nonspecific (abnormal) findings on radiological and other examination of body structure,"780-799:Symptoms, Signs, And Ill-Defined Conditions"
+ICD9 799,Other ill-defined and unknown causes of morbidity and mortality,"780-799:Symptoms, Signs, And Ill-Defined Conditions"
+ICD9 813,Fracture of radius and ulna,800-999:Injury And Poisoning
+ICD9 854,Intracranial injury of other and unspecified nature,800-999:Injury And Poisoning
+ICD9 996,Complications peculiar to certain specified procedures,800-999:Injury And Poisoning
